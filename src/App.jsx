@@ -3,8 +3,8 @@ import { useState } from 'react'
 import './App.css'
 
 const deck = {
-  title: "",
-  description: "Replace these with your own questions & answers!",
+  title: "Flash Cards App",
+  description: "General knowledge questions & answers!",
   cards: [
     { q: "What is the square root of 81?",               a: "9" },
     { q: "Who wrote 'Romeo and Juliet'?",                a: "William Shakespeare" },
